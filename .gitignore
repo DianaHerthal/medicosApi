@@ -1,1 +1,3 @@
 src/main/resources/medicos.json
+/target/classes/medicos.json
+/logs/
