@@ -1,0 +1,16 @@
+2026-11-14T20:39:34.410-03:00  INFO 343514 --- [medicos] [restartedMain] br.edu.utfpr.td.tsi.Main                 : Starting Main using Java 21.0.12.1 with PID 343514 (/home/diana/workspace-api-web-server/medicos/target/classes started by diana in /home/diana/workspace-api-web-server/medicos)
+2026-11-14T20:39:34.416-03:00 DEBUG 343514 --- [medicos] [restartedMain] br.edu.utfpr.td.tsi.Main                 : Running with Spring Boot v3.2.3, Spring v6.1.4
+2026-11-14T20:39:34.416-03:00  INFO 343514 --- [medicos] [restartedMain] br.edu.utfpr.td.tsi.Main                 : No active profile set, falling back to 1 default profile: "default"
+2026-11-14T20:39:34.447-03:00  INFO 343514 --- [medicos] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-11-14T20:39:34.447-03:00  INFO 343514 --- [medicos] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-11-14T20:39:34.744-03:00  INFO 343514 --- [medicos] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2026-11-14T20:39:34.774-03:00  INFO 343514 --- [medicos] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27 ms. Found 1 MongoDB repository interface.
+2026-11-14T20:39:35.016-03:00  INFO 343514 --- [medicos] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-11-14T20:39:35.025-03:00  INFO 343514 --- [medicos] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-11-14T20:39:35.025-03:00  INFO 343514 --- [medicos] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-11-14T20:39:35.047-03:00  INFO 343514 --- [medicos] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-11-14T20:39:35.047-03:00  INFO 343514 --- [medicos] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 600 ms
+2026-11-14T20:39:35.207-03:00  INFO 343514 --- [medicos] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-11-14T20:39:35.345-03:00  INFO 343514 --- [medicos] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2026-11-14T20:39:35.501-03:00  INFO 343514 --- [medicos] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2026-11-14T20:39:35.506-03:00  INFO 343514 --- [medicos] [restartedMain] br.edu.utfpr.td.tsi.Main                 : Started Main in 1.356 seconds (process running for 1.55)

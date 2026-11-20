@@ -1,0 +1,7 @@
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/controller/MedicoController.java
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/Main.java
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/exception/MedicoNaoEncontradoException.java
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/service/MedicoService.java
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/exception/GlobalExceptionHandler.java
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/model/Medico.java
+/home/diana/workspace-api-web-server/medicos/src/main/java/br/edu/utfpr/td/tsi/repository/MedicoRepository.java
